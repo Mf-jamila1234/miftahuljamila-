@@ -1,0 +1,32 @@
+#Nama miftahul jamila
+#Npm 
+#Prodi sistem informasi
+print (" selamat datang di ATM ")
+print ("1. check saldo tabungan")
+print ("2. tarik uang tabungan")
+print ("3. settor tunai")
+option:-int(input("silahkan pilih option"))
+if option==1:
+    print ("jumlah saldo tabungan Rp,1.000000")
+elif option==2:
+    print ("jumlah uang anda 1.000.000,anda akan merik uang sebesar")
+    print ("1 Rp,500000")
+    print ("2,Rp,100000")
+    "uang_anda"-1.000000
+    option2:-int(input("option"))
+    if option2==1:
+        "hasil uang_anda"-5000000
+        print("sisa saldo tabungan anda sekarang:".hasil1)
+    elif option2==2:
+        "hasil2-uang_anda"-1000000
+        print ("sisa saldo tabungan anda sekarang:".hasil2)
+    else:
+        print("keyboar anda salah")
+elif option==3:
+    uang_anda=1.0000000
+    print("uang anda berjumlah Rp,1.000000,anda akan menabung uang sebesar")
+    option1:-int(input("jumlah uang masuk :"))
+    hasil=uang_anda-"option3"
+    print("jumlah tabungan sekrang adalah :".hasil3)
+else:
+    print("pasword anda salah ,mohon coba lagi!")
